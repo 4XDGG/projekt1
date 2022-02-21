@@ -1,0 +1,4 @@
+Liczba gier: 8
+Wygrane: 2 | Przegrane: 2 | Remis: 4
+Wspolczynnik wygranych: 25%
+
