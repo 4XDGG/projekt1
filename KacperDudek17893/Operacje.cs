@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace KacperDudek17893
+namespace KacperDudek
 {
     class Operacje //zawarte są tu operacje zapisu i odczytu z pliku
     {

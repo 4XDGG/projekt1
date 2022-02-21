@@ -24,3 +24,16 @@ C:\Users\Użytkownik\Desktop\KacperDudek17893\KacperDudek17893\obj\Debug\netcore
 C:\Users\Użytkownik\Desktop\KacperDudek17893\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.dll
 C:\Users\Użytkownik\Desktop\KacperDudek17893\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.pdb
 C:\Users\Użytkownik\Desktop\KacperDudek17893\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.genruntimeconfig.cache
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.exe
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.deps.json
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.runtimeconfig.json
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.runtimeconfig.dev.json
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.dll
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\bin\Debug\netcoreapp3.1\KacperDudek17893.pdb
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.csprojAssemblyReference.cache
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.AssemblyInfo.cs
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.dll
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.pdb
+C:\Users\Użytkownik\GitHub\projekt\KacperDudek17893\obj\Debug\netcoreapp3.1\KacperDudek17893.genruntimeconfig.cache

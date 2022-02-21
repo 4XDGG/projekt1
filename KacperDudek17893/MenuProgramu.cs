@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KacperDudek17893
+namespace KacperDudek
 {
     class MenuProgramu : DaneStatystyk //zawarte jest tu menu programu
     {

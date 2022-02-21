@@ -1,4 +1,4 @@
-﻿namespace KacperDudek17893
+﻿namespace KacperDudek
 {
     class AuthorInfo
     {
@@ -6,8 +6,8 @@
         {
             string Author;
             int NrAlbumu;
-            Author = "Kacper Dudek";
-            NrAlbumu = 17893;//przypisywanie do zmiennych danych o autorze
+            Author = "Kacper Dudek";//przypisywanie do zmiennych danych o autorze
+            NrAlbumu = 17893;
             string Info = "Copyright by " + Author + " " + NrAlbumu;
             return Info;
         }

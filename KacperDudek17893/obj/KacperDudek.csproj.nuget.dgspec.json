@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek17893.csproj": {}
+    "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek17893.csproj": {
+    "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek17893.csproj",
-        "projectName": "KacperDudek17893",
-        "projectPath": "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek17893.csproj",
+        "projectUniqueName": "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek.csproj",
+        "projectName": "KacperDudek",
+        "projectPath": "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\KacperDudek.csproj",
         "packagesPath": "C:\\Users\\Użytkownik\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Użytkownik\\GitHub\\projekt\\KacperDudek17893\\obj\\",
         "projectStyle": "PackageReference",
